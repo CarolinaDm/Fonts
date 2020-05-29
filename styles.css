@@ -1,0 +1,21 @@
+@import url("assets/css/reset.css");
+
+@import url("assets/css/fonts.css");
+
+div:nth-child(1) {
+    font-weight: 400;
+}
+
+div:nth-child(2) {
+    font-weight: 400;
+    font-style: italic;
+}
+
+div:nth-child(3) {
+    font-weight: 700;
+}
+
+div:nth-child(4) {
+    font-weight: 700;
+    font-style: italic;
+}
